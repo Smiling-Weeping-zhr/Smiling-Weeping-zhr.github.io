@@ -1,15 +1,15 @@
 # Site settings
-name: Smiling-Weeping-zhr的读书笔记
-email: maoxiaoke@outlook.com
-author: M/J
-url: http://xiaokedada.com
-resume_site: http://xiaokedada.com/me/
-github: https://github.com/maoxiaoke/
+name: Smiling&Weeping的小书屋
+email: 1600208008@qq.com
+author: 许辞忧
+url: https://smiling-weeping-zhr.org.edu.kg/
+resume_site: https://smiling-weeping-zhr.org.edu.kg/me/
+github: https://github.com/Smiling-Weeping-zhr/
 baseurl: ""  #根目录
-description: 假如生活欺骗了你，不要悲伤，不要哭泣。
-motto: 我们笑着说再见，却深知再见遥遥无期。
+description: 温柔善良的人总是难以生存，因为这个世界既不温柔，也不善良...
+motto: 对姑娘的喜欢何止钟意二字...
 #motto: 如果生活欺骗了你，不要悲伤，不要哭泣。
-banner: 我想带你去看绚丽的山峦，去看秀丽的溪谷，这份心情，人类是如何称呼的呢。
+banner: 所谓无底深渊，倘若决心下去，也算是前程万丈...
 #permalink: /:categories/:year/:month/:day/:title/
 permalink: /:year/:month/:day/:title/
 excerpt_separator:  '<!-- more -->' #文章摘要
@@ -17,7 +17,7 @@ paginate: 8
 paginate_path: "page:num"
 gems: [jekyll-paginate]
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
-github_username: maoxiaoke
+github_username: Smiling-Weeping-zhr
 highlighter: rouge
 markdown: kramdown
 FB:
